@@ -1,3 +1,3 @@
 # hello-world
 Test repository
--Well, that's all ther eis to it really.
+-Well, that's all there is to it really.
